@@ -1,0 +1,3 @@
+@echo off
+g++  -o ¶íÂÞË¹·½¿é Tetris.cpp main.cpp
+pause
